@@ -1,2 +1,2 @@
-# larabel_blog
+# laravel_blog
 Laravel×SQLiteでブログ作成

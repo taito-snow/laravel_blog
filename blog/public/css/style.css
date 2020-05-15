@@ -1,0 +1,111 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+    margin: 0;
+}
+a {
+    text-decoration: none;
+    color: #000;
+}
+a:hover {
+    opacity: 0.5;
+}
+ul {
+    list-style: none;
+    padding: 0;
+}
+.container {
+    width: 800px;
+    margin: 20px auto;
+}
+h1 {
+    font-size: 21px;
+    padding-bottom: 25px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    border-bottom: 1px solid #ddd;
+    text-align: center;
+}
+ul {
+    font-size: 20px;
+}
+ul > li {
+    margin-bottom: 15px;
+}
+.header-menu {
+    font-size: 16px;
+    font-weight: normal;
+    float: right;
+}
+input[type="text"], textarea {
+    box-sizing: border-box;
+    width: 100%;
+    padding: 5px;
+    font-size: 16px;
+}
+textarea {
+    height: 300px;
+}
+.error {
+    font-size: 12px;
+    color: tomato;
+}
+.edit {
+    font-size: 12px;
+    float: right;
+    margin-right: 10px;
+}
+.del {
+    font-size: 12px;
+    float: right;
+
+}
+h2 {
+    font-size: 24px;
+    padding-top: 25px;
+    text-align: center;
+    margin-bottom: 35px;
+}
+h3 {
+    font-size: 20px;
+}
+.comments .comment {
+    font-size: 14px;
+}
+.main_contents {
+    display: flex;
+}
+.blog_content {
+    width: 70%;;
+}
+.sidebar {
+    width: 30%;
+}
+.side_con {
+    padding: 10px 15px;
+}
+.side_tit {
+    margin: 10px 0;
+    border-bottom: 1px solid #000;
+}
+.user {
+    font-size: 15px;
+}
+.top_title {
+    border-bottom: 1px solid;
+}
+.user_name {
+    font-size: 14px;
+    margin-left: 10px;
+    color: grey;
+}
+.blog_body {
+    font-size: 15px;
+}
+.input_text {
+    margin-right: 20px;
+}
+.comment_title {
+    font-size: 18px;
+    margin-top: 50px;
+}
